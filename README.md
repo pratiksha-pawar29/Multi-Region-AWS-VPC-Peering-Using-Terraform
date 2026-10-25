@@ -18,7 +18,7 @@ The infrastructure is defined using Terraform, following the Infrastructure as C
 - Understand multi-region AWS networking.
 
 🏗️ Architecture
-
+![AWS Multi-Region VPC Peering Architecture](Architecture.png)
 AWS Region 1: "us-east-1" (US East – N. Virginia)
 
 - VPC-1: "10.0.0.0/16"
